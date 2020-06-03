@@ -1,0 +1,242 @@
+/*
+Theme Name:     Neve Child
+Theme URI:      https://themeisle.com/themes/neve/
+Template: neve
+Author:         ThemeIsle
+Author URI:     https://themeisle.com
+Description:    Neve is a super fast, easily customizable, multi-purpose theme. It’s perfect for blogs, small business, startups, agencies, firms, e-commerce shops (WooCommerce storefront) as well as personal portfolio sites and most types of projects. A fully AMP optimized and responsive theme, Neve will load in mere seconds and adapt perfectly on any viewing device. While it is lightweight and has a minimalist design, the theme is highly extendable, it has a highly SEO optimized code, resulting in top rankings in Google search results. Neve works perfectly with Gutenberg and the most popular page builders (Elementor, Brizy, Beaver Builder, Visual Composer, SiteOrigin, Divi). Neve is also WooCommerce ready, responsive, RTL & translation ready. Look no further. Neve is the perfect theme for you!
+Version:        1.0.0
+License:        GNU General Public License v2 or later
+License URI:    http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain:    neve
+Tags: blog, custom-logo, e-commerce, rtl-language-support, post-formats, grid-layout, one-column, two-columns, custom-background, custom-colors, custom-header, custom-menu, featured-image-header, featured-images, flexible-header, full-width-template, sticky-post, theme-options, threaded-comments, translation-ready, accessibility-ready, wide-blocks, block-styles
+*/
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@600&display=swap');
+/*content boxes på alle sider*/
+
+.front img {
+    height: 550px;
+    width: auto;
+    position: relative; 
+    right: 20px;
+   }
+
+.front-kontakt img {
+    height: 550px;
+    position: relative; 
+    left: 20px;
+   }
+
+.om-right img {
+    width: 730px!important;
+    height: 730px;
+    position: relative; 
+    right: 20px;
+   }
+
+.om-left img {
+    width: 580px!important;
+    height: 480px;
+    max-width: max-content;
+    position: relative; 
+   }
+
+   .om-left2 img {
+    width: 580px!important;
+    height: 480px;
+    max-width: max-content;
+    position: relative; 
+    bottom: 30px;
+   }
+   .event-left img {
+    width: 580px!important;
+    height: 500px;
+    max-width: max-content;
+    position: relative; 
+    top: 10px;
+   }
+.front-menu img {
+    position: relative; 
+    height: 650px;
+    right: 20px;
+   }
+
+.covid-poster img {
+    position: relative; 
+    right: 20px;
+   }
+
+.local-text {
+       top: 50%;
+       right: 10px;
+   }
+
+   .local-box {
+    position: relative; 
+    left: 20px;
+    height: 765px;
+   }
+   .local-text-box {
+       height: 750px;
+   }
+   .left-kontakt img {
+    height: 760px;
+    position: relative; 
+    left: 30px;
+   }
+   .book-right img {
+    position: relative; 
+    right: 40px;
+   }
+
+   /*Responsive på image boxe*/
+   @media only screen and (max-width: 600px) {
+    .om-right img {
+        width: auto!important;
+        height: 300px;
+        position: relative; 
+        right: 0px;
+       }
+       .event-left img {
+        height: auto;
+        max-width: max-content;
+        position: center; 
+        top: 0px;
+       }
+      
+  }
+/*active secondary menu*/
+.builder-item--secondary-menu #secondary-menu li.current-menu-item > a {
+        color: #bcadad!important;
+    }
+
+.so-me-insta {
+    color: #e6ac9a!important;
+    font-size: 30px;
+    padding-right: 5px;
+    text-decoration: none!important;
+    
+}
+.so-me-face {
+    color: #e6ac9a!important;
+    font-size: 30px;
+    padding-left: 0px 5px;
+    text-decoration: none!important;
+}
+.menu-btn{
+position: relative; 
+bottom: 20px;
+}
+
+/*Galleri*/
+#photoblocks-1 {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+/*Footer*/
+
+#text-6.widget.widget_text{
+    padding-bottom: 10px;
+    margin-bottom: 0px;
+}
+
+
+  /*up to top knap*/
+  #myBtn {
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 400;
+    display: none; 
+    position: fixed; 
+    bottom: 350px; 
+    right: 30px; 
+    z-index: 99; 
+    border: none; 
+    outline: none;
+    background-color: #E6AC9A; 
+    color: #FFFFFF; 
+    cursor: pointer; 
+    padding: 15px 20px; 
+    border-radius: 10px;
+    font-size: 18px; 
+  }
+
+  
+  #myBtn:hover {
+    background-color: transparent; /* Add a dark-grey background on hover */
+    border: solid 4px #e6ac9a;
+    color: #474747; 
+  }
+  .show {
+    display: block;
+  }
+  
+  /* Style the buttons */
+  .btn {
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 400;
+    font-size: 18px; 
+    border: none; 
+    outline: none;
+    background-color: #E6AC9A; 
+    color: #FFFFFF; 
+    padding: 12px 16px;
+    cursor: pointer;
+    text-transform: capitalize;
+  }
+  
+  /* Add a light grey background on mouse-over */
+  .btn:hover {
+    background-color: #ddd;
+  }
+  
+  /* Add a dark background to the active button */
+  .btn.active {
+    background-color: #666;
+    color: white;
+  }
+
+/*Product cart styling*/
+.btn, input[type="submit"], ul[id^="nv-primary-navigation"] li.button.button-primary > a, .menu li.button.button-primary > a, .woocommerce a.button, .woocommerce .button:not(.nv-sidebar-toggle):not(.nv-close-cart-sidebar), .woocommerce a.button.alt, .woocommerce a.button.button-primary, .woocommerce a.button.checkout-button, .woocommerce button.button:disabled, .woocommerce button.button:disabled[disabled], .woocommerce a.button.add_to_cart, .woocommerce a.product_type_grouped, .woocommerce a.product_type_external, .woocommerce a.product_type_variable, .woocommerce button.button.alt, .woocommerce button.button.alt.single_add_to_cart_button.disabled, .woocommerce button.button.alt.single_add_to_cart_button, .woocommerce .actions > button[type=submit], .woocommerce .checkout.wc-forward, .woocommerce button#place_order, .woocommerce .return-to-shop > .button, ul[id^="nv-primary-navigation"] .nv-nav-cart a.button.checkout.wc-forward, .button.woocommerce-form-login__submit {
+    background-color: #e6ac9a!important;
+}
+
+
+div.wpt-footer-cart-wrapper a{
+    background-color: #e6ac9a!important;
+    bottom: 300px;
+}
+div.wpt-footer-cart-wrapper>a:after{
+    background-color: #e6ac9a!important;
+}
+
+.wptf_for_thumbs_desc .wptf_thumbnails img.attachment-60x60 .size-60x60{
+    width: 300px!important;
+    height: 300px!important;
+}
+/*Kontakt formular styling*/
+.nf-form-fields-required {
+    display: none;
+}
+
+.nf-error.field-wrap .nf-field-element:after {
+    background: #e6ac9a!important;
+    
+}
+.nf-error .nf-error-msg  {
+    color: #e6ac9a!important;
+}
+.ninja-forms-req-symbol {
+    display: none;
+}
+.nf-error .ninja-forms-field {
+    border-color: none !important;
+}
+
+.elementor-43 .elementor-element.elementor-element-98a5bd2 .eael-ninja-form .nf-form-errors .nf-error-field-errors {
+    display: none!important;
+}
+
+.nf-error .ninja-forms-field {
+    border: 0px solid #e6ac9a!important;
+}

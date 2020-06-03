@@ -1,0 +1,80 @@
+2020-05-17T10:02:17+00:00 CRITICAL Maximum execution time of 50 seconds exceeded in /customers/4/f/6/jlloydmedia.com/httpd.www/caféwhitepearl/wp-includes/class-wp-image-editor.php on line 308
+
+2020-05-17T10:02:43+00:00 CRITICAL Maximum execution time of 50 seconds exceeded in /customers/4/f/6/jlloydmedia.com/httpd.www/caféwhitepearl/wp-includes/class-wp-image-editor-imagick.php on line 363
+
+2020-05-17T10:02:45+00:00 CRITICAL Maximum execution time of 50 seconds exceeded in /customers/4/f/6/jlloydmedia.com/httpd.www/caféwhitepearl/wp-includes/class-wp-image-editor-imagick.php on line 388
+
+2020-05-17T10:03:53+00:00 CRITICAL Maximum execution time of 50 seconds exceeded in /customers/4/f/6/jlloydmedia.com/httpd.www/caféwhitepearl/wp-includes/class-wp-image-editor.php on line 489
+
+2020-05-17T10:11:48+00:00 CRITICAL Maximum execution time of 50 seconds exceeded in /customers/4/f/6/jlloydmedia.com/httpd.www/caféwhitepearl/wp-includes/class-wp-image-editor-imagick.php on line 363
+
+2020-05-17T10:11:55+00:00 CRITICAL Maximum execution time of 50 seconds exceeded in /customers/4/f/6/jlloydmedia.com/httpd.www/caféwhitepearl/wp-includes/class-wp-image-editor-imagick.php on line 693
+
+2020-05-17T10:12:01+00:00 CRITICAL Maximum execution time of 50 seconds exceeded in /customers/4/f/6/jlloydmedia.com/httpd.www/caféwhitepearl/wp-includes/class-wp-image-editor.php on line 489
+
+2020-05-17T10:12:09+00:00 CRITICAL Maximum execution time of 50 seconds exceeded in /customers/4/f/6/jlloydmedia.com/httpd.www/caféwhitepearl/wp-includes/class-wp-image-editor-imagick.php on line 363
+
+2020-05-17T10:12:39+00:00 CRITICAL Maximum execution time of 50 seconds exceeded in /customers/4/f/6/jlloydmedia.com/httpd.www/caféwhitepearl/wp-includes/class-wp-image-editor-imagick.php on line 388
+
+2020-05-17T10:13:30+00:00 CRITICAL Maximum execution time of 50 seconds exceeded in /customers/4/f/6/jlloydmedia.com/httpd.www/caféwhitepearl/wp-includes/class-wp-image-editor.php on line 489
+
+2020-05-17T10:13:48+00:00 CRITICAL Maximum execution time of 50 seconds exceeded in /customers/4/f/6/jlloydmedia.com/httpd.www/caféwhitepearl/wp-includes/class-wp-image-editor-imagick.php on line 388
+
+2020-05-17T10:19:39+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in /customers/4/f/6/jlloydmedia.com/httpd.www/caféwhitepearl/wp-content/themes/neve-child/functions.php on line 2
+
+2020-05-17T10:19:47+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in /customers/4/f/6/jlloydmedia.com/httpd.www/caféwhitepearl/wp-content/themes/neve-child/functions.php on line 2
+
+2020-05-17T10:19:47+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in /customers/4/f/6/jlloydmedia.com/httpd.www/caféwhitepearl/wp-content/themes/neve-child/functions.php on line 2
+
+2020-05-17T10:19:50+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in /customers/4/f/6/jlloydmedia.com/httpd.www/caféwhitepearl/wp-content/themes/neve-child/functions.php on line 2
+
+2020-05-17T10:19:51+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in /customers/4/f/6/jlloydmedia.com/httpd.www/caféwhitepearl/wp-content/themes/neve-child/functions.php on line 2
+
+2020-05-17T10:19:53+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in /customers/4/f/6/jlloydmedia.com/httpd.www/caféwhitepearl/wp-content/themes/neve-child/functions.php on line 2
+
+2020-05-17T10:20:01+00:00 CRITICAL require_once(): Failed opening required 'globals/utilities.php' (include_path='.:/usr/share/php') in /customers/4/f/6/jlloydmedia.com/httpd.www/caféwhitepearl/wp-content/themes/neve-child/functions.php on line 77
+
+2020-05-17T10:20:06+00:00 CRITICAL require_once(): Failed opening required 'globals/utilities.php' (include_path='.:/usr/share/php') in /customers/4/f/6/jlloydmedia.com/httpd.www/caféwhitepearl/wp-content/themes/neve-child/functions.php on line 76
+
+2020-05-17T10:20:06+00:00 CRITICAL require_once(): Failed opening required 'globals/utilities.php' (include_path='.:/usr/share/php') in /customers/4/f/6/jlloydmedia.com/httpd.www/caféwhitepearl/wp-content/themes/neve-child/functions.php on line 76
+
+2020-05-17T10:20:07+00:00 CRITICAL require_once(): Failed opening required 'globals/utilities.php' (include_path='.:/usr/share/php') in /customers/4/f/6/jlloydmedia.com/httpd.www/caféwhitepearl/wp-content/themes/neve-child/functions.php on line 76
+
+2020-05-17T10:20:08+00:00 CRITICAL require_once(): Failed opening required 'globals/utilities.php' (include_path='.:/usr/share/php') in /customers/4/f/6/jlloydmedia.com/httpd.www/caféwhitepearl/wp-content/themes/neve-child/functions.php on line 76
+
+2020-05-17T10:20:10+00:00 CRITICAL require_once(): Failed opening required 'globals/utilities.php' (include_path='.:/usr/share/php') in /customers/4/f/6/jlloydmedia.com/httpd.www/caféwhitepearl/wp-content/themes/neve-child/functions.php on line 76
+
+2020-05-17T10:20:12+00:00 CRITICAL require_once(): Failed opening required 'globals/utilities.php' (include_path='.:/usr/share/php') in /customers/4/f/6/jlloydmedia.com/httpd.www/caféwhitepearl/wp-content/themes/neve-child/functions.php on line 76
+
+2020-05-17T10:20:21+00:00 CRITICAL require_once(): Failed opening required 'globals/utilities.php' (include_path='.:/usr/share/php') in /customers/4/f/6/jlloydmedia.com/httpd.www/caféwhitepearl/wp-content/themes/neve-child/functions.php on line 76
+
+2020-05-17T10:20:21+00:00 CRITICAL require_once(): Failed opening required 'globals/utilities.php' (include_path='.:/usr/share/php') in /customers/4/f/6/jlloydmedia.com/httpd.www/caféwhitepearl/wp-content/themes/neve-child/functions.php on line 76
+
+2020-05-17T10:20:23+00:00 CRITICAL require_once(): Failed opening required 'globals/utilities.php' (include_path='.:/usr/share/php') in /customers/4/f/6/jlloydmedia.com/httpd.www/caféwhitepearl/wp-content/themes/neve-child/functions.php on line 76
+
+2020-05-17T10:20:24+00:00 CRITICAL require_once(): Failed opening required 'globals/utilities.php' (include_path='.:/usr/share/php') in /customers/4/f/6/jlloydmedia.com/httpd.www/caféwhitepearl/wp-content/themes/neve-child/functions.php on line 76
+
+2020-05-17T10:31:16+00:00 CRITICAL Maximum execution time of 50 seconds exceeded in /customers/4/f/6/jlloydmedia.com/httpd.www/caféwhitepearl/wp-includes/class-wp-image-editor-imagick.php on line 388
+
+2020-05-17T10:31:23+00:00 CRITICAL Maximum execution time of 50 seconds exceeded in /customers/4/f/6/jlloydmedia.com/httpd.www/caféwhitepearl/wp-includes/class-wp-image-editor-imagick.php on line 388
+
+2020-05-17T10:31:25+00:00 CRITICAL Maximum execution time of 50 seconds exceeded in /customers/4/f/6/jlloydmedia.com/httpd.www/caféwhitepearl/wp-includes/class-wp-image-editor-imagick.php on line 388
+
+2020-05-17T10:31:28+00:00 CRITICAL Maximum execution time of 50 seconds exceeded in /customers/4/f/6/jlloydmedia.com/httpd.www/caféwhitepearl/wp-includes/class-wp-image-editor-imagick.php on line 355
+
+2020-05-17T10:31:39+00:00 CRITICAL Maximum execution time of 50 seconds exceeded in /customers/4/f/6/jlloydmedia.com/httpd.www/caféwhitepearl/wp-includes/class-wp-image-editor-imagick.php on line 363
+
+2020-05-17T10:32:05+00:00 CRITICAL Maximum execution time of 50 seconds exceeded in /customers/4/f/6/jlloydmedia.com/httpd.www/caféwhitepearl/wp-includes/class-wp-image-editor-imagick.php on line 363
+
+2020-05-17T10:32:07+00:00 CRITICAL Maximum execution time of 50 seconds exceeded in /customers/4/f/6/jlloydmedia.com/httpd.www/caféwhitepearl/wp-includes/class-wp-image-editor-imagick.php on line 355
+
+2020-05-17T10:33:09+00:00 CRITICAL Maximum execution time of 50 seconds exceeded in /customers/4/f/6/jlloydmedia.com/httpd.www/caféwhitepearl/wp-includes/class-wp-image-editor-imagick.php on line 355
+
+2020-05-17T10:33:11+00:00 CRITICAL Maximum execution time of 50 seconds exceeded in /customers/4/f/6/jlloydmedia.com/httpd.www/caféwhitepearl/wp-includes/class-wp-image-editor-imagick.php on line 363
+
+2020-05-17T10:33:36+00:00 CRITICAL Maximum execution time of 50 seconds exceeded in /customers/4/f/6/jlloydmedia.com/httpd.www/caféwhitepearl/wp-includes/class-wp-image-editor-imagick.php on line 388
+
+2020-05-17T12:06:16+00:00 CRITICAL Maximum execution time of 50 seconds exceeded in /customers/4/f/6/jlloydmedia.com/httpd.www/caféwhitepearl/wp-includes/class-wp-image-editor-imagick.php on line 388
+
+2020-05-17T12:07:40+00:00 CRITICAL Maximum execution time of 50 seconds exceeded in /customers/4/f/6/jlloydmedia.com/httpd.www/caféwhitepearl/wp-includes/class-wp-image-editor.php on line 489
+

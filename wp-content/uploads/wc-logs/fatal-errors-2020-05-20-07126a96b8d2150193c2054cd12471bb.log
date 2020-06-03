@@ -1,0 +1,42 @@
+2020-05-20T16:14:22+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function remove_action(), 1 passed in /customers/4/f/6/jlloydmedia.com/httpd.www/caféwhitepearl/wp-content/themes/neve-child/functions.php on line 24 and at least 2 expected in /customers/4/f/6/jlloydmedia.com/httpd.www/caféwhitepearl/wp-includes/plugin.php:583
+Stack trace:
+#0 /customers/4/f/6/jlloydmedia.com/httpd.www/caféwhitepearl/wp-content/themes/neve-child/functions.php(24): remove_action('woocommerce_bef...')
+#1 /customers/4/f/6/jlloydmedia.com/httpd.www/caféwhitepearl/wp-settings.php(508): include('/customers/4/f/...')
+#2 /customers/4/f/6/jlloydmedia.com/httpd.www/caféwhitepearl/wp-config.php(90): require_once('/customers/4/f/...')
+#3 /customers/4/f/6/jlloydmedia.com/httpd.www/caféwhitepearl/wp-load.php(37): require_once('/customers/4/f/...')
+#4 /customers/4/f/6/jlloydmedia.com/httpd.www/caféwhitepearl/wp-blog-header.php(13): require_once('/customers/4/f/...')
+#5 /customers/4/f/6/jlloydmedia.com/httpd.www/caféwhitepearl/index.php(17): require(' in /customers/4/f/6/jlloydmedia.com/httpd.www/caféwhitepearl/wp-includes/plugin.php on line 583
+
+2020-05-20T16:14:24+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function remove_action(), 1 passed in /customers/4/f/6/jlloydmedia.com/httpd.www/caféwhitepearl/wp-content/themes/neve-child/functions.php on line 24 and at least 2 expected in /customers/4/f/6/jlloydmedia.com/httpd.www/caféwhitepearl/wp-includes/plugin.php:583
+Stack trace:
+#0 /customers/4/f/6/jlloydmedia.com/httpd.www/caféwhitepearl/wp-content/themes/neve-child/functions.php(24): remove_action('woocommerce_bef...')
+#1 /customers/4/f/6/jlloydmedia.com/httpd.www/caféwhitepearl/wp-settings.php(508): include('/customers/4/f/...')
+#2 /customers/4/f/6/jlloydmedia.com/httpd.www/caféwhitepearl/wp-config.php(90): require_once('/customers/4/f/...')
+#3 /customers/4/f/6/jlloydmedia.com/httpd.www/caféwhitepearl/wp-load.php(37): require_once('/customers/4/f/...')
+#4 /customers/4/f/6/jlloydmedia.com/httpd.www/caféwhitepearl/wp-blog-header.php(13): require_once('/customers/4/f/...')
+#5 /customers/4/f/6/jlloydmedia.com/httpd.www/caféwhitepearl/index.php(17): require(' in /customers/4/f/6/jlloydmedia.com/httpd.www/caféwhitepearl/wp-includes/plugin.php on line 583
+
+2020-05-20T16:14:31+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function remove_action(), 1 passed in /customers/4/f/6/jlloydmedia.com/httpd.www/caféwhitepearl/wp-content/themes/neve-child/functions.php on line 24 and at least 2 expected in /customers/4/f/6/jlloydmedia.com/httpd.www/caféwhitepearl/wp-includes/plugin.php:583
+Stack trace:
+#0 /customers/4/f/6/jlloydmedia.com/httpd.www/caféwhitepearl/wp-content/themes/neve-child/functions.php(24): remove_action('woocommerce_bef...')
+#1 /customers/4/f/6/jlloydmedia.com/httpd.www/caféwhitepearl/wp-settings.php(508): include('/customers/4/f/...')
+#2 /customers/4/f/6/jlloydmedia.com/httpd.www/caféwhitepearl/wp-config.php(90): require_once('/customers/4/f/...')
+#3 /customers/4/f/6/jlloydmedia.com/httpd.www/caféwhitepearl/wp-load.php(37): require_once('/customers/4/f/...')
+#4 /customers/4/f/6/jlloydmedia.com/httpd.www/caféwhitepearl/wp-blog-header.php(13): require_once('/customers/4/f/...')
+#5 /customers/4/f/6/jlloydmedia.com/httpd.www/caféwhitepearl/index.php(17): require(' in /customers/4/f/6/jlloydmedia.com/httpd.www/caféwhitepearl/wp-includes/plugin.php on line 583
+
+2020-05-20T17:01:22+00:00 CRITICAL syntax error, unexpected '10' (T_LNUMBER), expecting ',' or ')' in /customers/4/f/6/jlloydmedia.com/httpd.www/caféwhitepearl/wp-content/themes/neve-child/functions.php on line 24
+
+2020-05-20T17:01:25+00:00 CRITICAL syntax error, unexpected '10' (T_LNUMBER), expecting ',' or ')' in /customers/4/f/6/jlloydmedia.com/httpd.www/caféwhitepearl/wp-content/themes/neve-child/functions.php on line 24
+
+2020-05-20T17:01:31+00:00 CRITICAL syntax error, unexpected '10' (T_LNUMBER), expecting ',' or ')' in /customers/4/f/6/jlloydmedia.com/httpd.www/caféwhitepearl/wp-content/themes/neve-child/functions.php on line 24
+
+2020-05-20T17:02:24+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function remove_action(), 1 passed in /customers/4/f/6/jlloydmedia.com/httpd.www/caféwhitepearl/wp-content/themes/neve-child/functions.php on line 26 and at least 2 expected in /customers/4/f/6/jlloydmedia.com/httpd.www/caféwhitepearl/wp-includes/plugin.php:583
+Stack trace:
+#0 /customers/4/f/6/jlloydmedia.com/httpd.www/caféwhitepearl/wp-content/themes/neve-child/functions.php(26): remove_action('wptf_table_disa...')
+#1 /customers/4/f/6/jlloydmedia.com/httpd.www/caféwhitepearl/wp-settings.php(508): include('/customers/4/f/...')
+#2 /customers/4/f/6/jlloydmedia.com/httpd.www/caféwhitepearl/wp-config.php(90): require_once('/customers/4/f/...')
+#3 /customers/4/f/6/jlloydmedia.com/httpd.www/caféwhitepearl/wp-load.php(37): require_once('/customers/4/f/...')
+#4 /customers/4/f/6/jlloydmedia.com/httpd.www/caféwhitepearl/wp-blog-header.php(13): require_once('/customers/4/f/...')
+#5 /customers/4/f/6/jlloydmedia.com/httpd.www/caféwhitepearl/index.php(17): require(' in /customers/4/f/6/jlloydmedia.com/httpd.www/caféwhitepearl/wp-includes/plugin.php on line 583
+
